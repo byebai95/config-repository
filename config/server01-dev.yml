@@ -9,7 +9,7 @@ eureka:
     hostname: localhost
   client:
     # 是否在 eureka 服务商注册自己的信息，以提供其他服务发现，默认 true
-    register-with-eureka: true
+    register-with-eureka: false
     #此客户端获取 eureka 服务器上的注册信息，默认 true
     fetch-registry: false
     service-url:
