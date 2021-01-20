@@ -1,6 +1,6 @@
 spring:
   application:
-    name: hystrix
+    name: ribbon
 
 server:
   port: 7004
