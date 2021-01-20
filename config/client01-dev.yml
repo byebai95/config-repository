@@ -2,8 +2,8 @@ spring:
   application:
     name: client01
 
-#server:
- # port: 7001
+server:
+  port: 7001
 
 eureka:
   instance:
